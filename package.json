@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/uurtech/friendly-star#readme",
   "dependencies": {
-    "@octokit/rest": "^19.0.5"
+    "@octokit/rest": "^19.0.5",
+    "dotenv": "^16.0.3"
   }
 }
